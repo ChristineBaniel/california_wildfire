@@ -1,5 +1,5 @@
 <?php
-include 'db_connection.php'; // Ensure you have a proper database connection file
+include 'db_connection.php';
 
 $file_path = 'C:/xampp/mysql/data/wildfire_db/y.csv';
 
